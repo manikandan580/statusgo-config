@@ -1,17 +1,14 @@
 {
-  "ads_enabled": false,
+  "ads_enabled": true,
+  "banner_enabled": true,
+  "interstitial_enabled": true,
+  "app_open_enabled": true,
+  "native_enabled": true,
   "banner_ad_unit": "ca-app-pub-3940256099942544/6300978111",
   "interstitial_ad_unit": "ca-app-pub-3940256099942544/1033173712",
-  "rewarded_ad_unit": "ca-app-pub-3940256099942544/5224354917",
-  "app_open_ad_unit": "ca-app-pub-3940256099942544/9257395923",
+  "app_open_ad_unit": "ca-app-pub-3940256099942544/9257395915",
   "native_ads": {
-    "home_native_top": "ca-app-pub-3940256099942544/2247696110",
-    "home_native_bottom": "ca-app-pub-3940256099942544/2247696110",
-    "images_native": "ca-app-pub-3940256099942544/2247696110",
-    "videos_native": "ca-app-pub-3940256099942544/2247696110",
-    "saved_native": "ca-app-pub-3940256099942544/2247696110",
-    "chat_native": "ca-app-pub-3940256099942544/2247696110",
     "status_grid_native": "ca-app-pub-3940256099942544/2247696110",
-    "settings_native": "ca-app-pub-3940256099942544/2247696110"
+    "direct_chat_native": "ca-app-pub-3940256099942544/2247696110"
   }
 }
